@@ -12,7 +12,6 @@
 
 An application built for stashing your favorite reusable code snippets. Save them, tag them and you can access it anywhere whenever you want. No more of searching through codebases and files and folders. 
 
-[[Code-Stash Process]] can be referred for the Step by step process
 
 ## Tech stack:
 - [[NextJS]]
@@ -23,3 +22,4 @@ An application built for stashing your favorite reusable code snippets. Save the
 
 
 # **References**
+https://firebase.google.com/docs
